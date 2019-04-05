@@ -1,1 +1,5 @@
-
+nama  :ardian
+nim :182914003
+kelas : tekom A
+angkatan : 2018
+mata kuliah : struktur data
