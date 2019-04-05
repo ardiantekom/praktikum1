@@ -1,5 +1,5 @@
 nama  :ardian
 nim :182914003
-kelas : tekom A
+kelas : teknik komputer A
 angkatan : 2018
 mata kuliah : struktur data
